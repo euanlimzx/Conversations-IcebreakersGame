@@ -1,11 +1,11 @@
-# Sample Snack app
+# CONVERSATIONS WEBAPP
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Decided to add on to my previous webapp (Unfine Dining) by adding on two additional card decks. In total, there are three decks:
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+1. EXTREME ICEBREAKERS
+2. UNFINE DINING
+3. DATE NIGHT
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+I was quite passionate about this project as I've always believed in connecting with others on a level deeper than small talk. I've always wanted to make an app similar to We're Not Really Strangers, so this is my attempt at it.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Built in less than 2 days with React Native.
